@@ -34,7 +34,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 👤 Author
 
 Created by Abhay Singh Gurjar
